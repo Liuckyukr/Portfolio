@@ -112,7 +112,7 @@
     color: blue;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 767px) {
     h1 {
         font-size: 44px ;
     }
@@ -125,7 +125,7 @@
     p {
         font-size: 14px;
     }
-    .home {
+    .img-home {
         display: none;
     }
     
